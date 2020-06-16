@@ -1,2 +1,2 @@
 # Smart-Dictionary
-Dictionary made using pythong
+Dictionary made using python
